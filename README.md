@@ -2,9 +2,9 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 
-_Imaginary Numbers_ is a textbook published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
+_Imaginary Numbers_ is a book that was published on [cnx.org](https://cnx.org/).
 
-The book can be viewed [online](https://github.com/cnx-user-books/cnxbook-imaginary-numbers/releases/latest), where you can also see a list of contributors.
+An ebook can be downloaded [here](https://github.com/cnx-user-books/cnxbook-imaginary-numbers/releases/latest), and the book can be viewed online [here](https://github.com/cnx-user-books/cnxbook-imaginary-numbers/releases/latest).
 
 ## License
 This book is available under the [Creative Commons Attribution License](./LICENSE) license.
